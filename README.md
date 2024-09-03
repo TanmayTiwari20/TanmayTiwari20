@@ -15,5 +15,3 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-ajay-tiwari) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__tanmaytiwari__) 
-
-<img src="https://raw.githubusercontent.com/TanmayTiwari20/TanmayTiwari20/output/snake.svg" alt="Snake animation" />
